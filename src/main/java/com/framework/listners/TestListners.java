@@ -9,7 +9,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TestListners extends ExtentReportsClass implements ITestListener {
 	
-	//This class will have all the methods related testng listners top perform the actions on top of the test method
+	//This testclass will have all the methods related testng listners top perform the actions on top of the test method
 
 
 	public void onTestStart(ITestResult result) {
